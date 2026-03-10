@@ -1,7 +1,7 @@
 import axios from 'axios';
 
 const API = axios.create({
-  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://mern-backend-btvx.onrender.com',
+  baseURL: import.meta.env.VITE_API_BASE_URL || 'https://mern-backend-btvx.onrender.com/api',
 });
 
 // Add a request interceptor to attach the JWT token

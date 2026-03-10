@@ -13,7 +13,7 @@ const app = express()
 
 //Middleware
 app.use(cors({
-    origin: "https://mern-app-six-dusky.vercel.app/",
+    origin: "https://mern-app-six-dusky.vercel.app",
     credentials: true
 }))
 app.use(express.json())
