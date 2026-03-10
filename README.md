@@ -1,17 +1,3 @@
-Here is a **more professional and portfolio-ready version** of your README. I kept your content but improved:
-
-* structure
-* clarity
-* deployment info
-* project overview
-* environment variables
-* API documentation
-* live demo section
-
-This is the kind of README recruiters expect on GitHub.
-
----
-
 # MERN JWT Authentication Hub
 
 A modern **full-stack authentication system** built using the **MERN stack**. This project demonstrates secure **JWT-based authentication**, protected API routes, and a modern **React + Vite frontend** with a clean UI and centralized state management.
